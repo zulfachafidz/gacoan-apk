@@ -1,0 +1,5 @@
+1. API
+2. Slice to API
+3. Connect to API
+4. Implementasi provider state management => cart
+5. open wa

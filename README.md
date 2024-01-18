@@ -1,17 +1,48 @@
-# food
+# Aplikasi Gacoan
 
-A new Flutter project.
+![Aplikasi Gacoan Logo]()
 
-## Getting Started
+## Deskripsi
 
-This project is a starting point for a Flutter application.
+Aplikasi Gacoan adalah aplikasi untuk melakukan pemesanan makanan secara praktis. Dibangun menggunakan bahasa Dart dan framework Flutter, aplikasi ini memudahkan pengguna untuk memilih menu, menambahkan pesanan, dan melakukan pemesanan dengan cepat. Alur penggunaan aplikasi mencakup menu home dengan pilihan menu, penambahan pesanan melalui ikon tambah, konfirmasi pesanan melalui keranjang belanja, pengisian informasi seperti nama, nomor meja, dan total harga, dan terakhir melakukan order melalui WhatsApp.
 
-A few resources to get you started if this is your first Flutter project:
+## Persyaratan
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Dart
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# gacoan-apk
+## Instalasi
+
+1. Clone repositori ini:
+
+   ```bash
+   git clone https://github.com/namaproject/aplikasi-gacoan.git
+   ```
+
+2. Masuk ke direktori proyek:
+
+   ```bash
+   cd aplikasi-gacoan
+   ```
+
+3. Jalankan aplikasi:
+
+   ```bash
+   flutter run
+   ```
+
+## Alur Penggunaan
+
+1. Buka aplikasi dan lihat menu yang tersedia pada halaman home.
+2. Pilih menu yang diinginkan dan klik ikon tambah untuk menambahkan pesanan.
+3. Konfirmasi pesanan melalui keranjang belanja.
+4. Isi informasi seperti nama, nomor meja, dan total harga.
+5. Klik "Order Now" untuk diarahkan ke WhatsApp dan selesaikan pesanan.
+
+## Kontribusi
+
+Jika Anda ingin berkontribusi pada pengembangan Aplikasi Gacoan, silakan buat _fork_ dari repositori ini dan kirimkan _pull request_ dengan perubahan Anda.
+
+## Lisensi
+
+Proyek ini dilisensikan di bawah [MIT License](LICENSE).
