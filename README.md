@@ -7,7 +7,8 @@
 Aplikasi Gacoan adalah aplikasi untuk melakukan pemesanan makanan secara praktis. Dibangun menggunakan bahasa Dart dan framework Flutter, aplikasi ini memudahkan pengguna untuk memilih menu, menambahkan pesanan, dan melakukan pemesanan dengan cepat. Alur penggunaan aplikasi mencakup menu home dengan pilihan menu, penambahan pesanan melalui ikon tambah, konfirmasi pesanan melalui keranjang belanja, pengisian informasi seperti nama, nomor meja, dan total harga, dan terakhir melakukan order melalui WhatsApp.
 
 ## UI'UX
-![Aplikasi Gacoan ui/ux](https://www.figma.com/proto/64lpHPYJOyIKkIq2t50Rmj/aplikasi-gacoan?node-id=1-2)
+[![Aplikasi Gacoan UI/UX](https://github.com/zulfachafidz/gacoan-apk/blob/main/assets/img/uiux.png)](https://www.figma.com/proto/64lpHPYJOyIKkIq2t50Rmj/aplikasi-gacoan?node-id=1-2)
+
 ## Persyaratan
 
 - Flutter
